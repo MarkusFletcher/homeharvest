@@ -142,7 +142,6 @@
 }
 
 .product-info__block-props {
-    margin-top: 8px;
 }
 
 .props {
@@ -150,7 +149,7 @@
 
 .props__row {
     display: flex;
-    padding: 6px 16px;
+    padding: 8px 16px;
 }
 
 .props__row:nth-child(even) {
@@ -158,7 +157,8 @@
 }
 
 .props__col {
-    width: 50%;
+    /* width: 50%; */
+    flex: 0 0 40%
 }
 
 .catalog-detail__content{
