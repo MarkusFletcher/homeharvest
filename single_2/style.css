@@ -156,9 +156,12 @@
 /*     background-color: #f1f1f1; */
 }
 
-.props__col {
-    /* width: 50%; */
-    flex: 0 0 40%
+.props__name {
+    width: 36%;
+}
+
+.props__value {
+    width: 64%;
 }
 
 .catalog-detail__content{
