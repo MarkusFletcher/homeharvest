@@ -193,3 +193,9 @@
     font-weight: 600;;
     margin-bottom: 10px;
 }
+
+@media (max-width: 1000px){
+    .header img{
+        display: none;
+    }
+}
