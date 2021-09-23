@@ -158,6 +158,7 @@
 
 .props__name {
     width: 36%;
+    padding-right: 10px;
 }
 
 .props__value {
